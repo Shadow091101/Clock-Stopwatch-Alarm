@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Installer logs
+*.log
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
